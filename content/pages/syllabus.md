@@ -36,12 +36,65 @@ Students must apply and be accepted to the [Graduate Consortium in Women's Studi
 Assessments
 -----------
 
-| ACTIVITIES | Percentages |
-| --- | --- |
-| In-class participation and engagement | 30% |
-| Research paper | 30% (25% for essay; 5% for in-class presentation) |
-| In-class student discussion preparation and facilitation | 15% |
-| Annotated bibliography | 5% |
-| Op-Ed | 20% (15% for Op-Ed; 5% for in-class presentation) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+Percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class participation and engagement
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research paper
+{{< tdclose >}}
+{{< tdopen >}}
+30% (25% for essay; 5% for in-class presentation)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class student discussion preparation and facilitation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Annotated bibliography
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Op-Ed
+{{< tdclose >}}
+{{< tdopen >}}
+20% (15% for Op-Ed; 5% for in-class presentation)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 See [Assignments]({{< baseurl >}}/pages/assignments) section for more information.
