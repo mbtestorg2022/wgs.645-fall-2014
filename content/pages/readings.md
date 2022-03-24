@@ -54,7 +54,7 @@ Cottingham, Jane, Adrienne Germain, et al. "[Use of Human Rights to Meet the Unm
 
 ### Recommended Readings and Key Reference Documents / Resources
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Framework of Actions for the follow-up to the Programme of Action of the International Conference on Population and Development: Beyond 2014 (PDF - 4.5MB)](https://www.unfpa.org/publications/framework-actions-follow-programme-action-international-conference-population-and)
+[Framework of Actions for the follow-up to the Programme of Action of the International Conference on Population and Development: Beyond 2014 (PDF - 4.5MB)](https://www.unfpa.org/publications/framework-actions-follow-programme-action-international-conference-population-and)
 
 Grodin, Michael, Daniel Tarantola, eds. _Health and Human Rights in a Changing World_. Routledge, 2013, p. 647. ISBN: 9780415503990.
 
@@ -172,9 +172,9 @@ Kissling, Elizabeth. "[Pills, Periods, and Postfeminism: The New Politics of Mar
 
 Bobel, C. "Feminist Engagements with Menstruation." In _New blood: Third-Wave feminism and the Politics of Menstruation_. Rutgers University Press, 2010, pp. 28–41. ISBN: 9780813547541. \[Preview with [Google Books](http://books.google.com/books?id=t9a8cKbQgNsC&pg=PA28=onepage)\]
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Sociologists for Women in Society (SWS) Fact Sheet: "The Menstrual Cycle: A Feminist Lifespan Perspective" (PDF)](https://socwomen.org/wp-content/uploads/2018/03/fact_4-2011-menstruation.pdf)
+[Sociologists for Women in Society (SWS) Fact Sheet: "The Menstrual Cycle: A Feminist Lifespan Perspective" (PDF)](https://socwomen.org/wp-content/uploads/2018/03/fact_4-2011-menstruation.pdf)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Menstrual Hygiene Management Infographic (PDF)](http://www.milbank.org/uploads/documents/0809MaternityCare/0809MaternityCare.pdf)
+[Menstrual Hygiene Management Infographic (PDF)](http://www.milbank.org/uploads/documents/0809MaternityCare/0809MaternityCare.pdf)
 
 ### Film shown in class
 
@@ -202,7 +202,7 @@ Corporate obstetrics and care-less maternity; or how childbirth went to the indu
 
 Stapleton, Susan Rutledge, Cara Osborne, et al. "[Outcomes of Care in Birth Centers: Demonstration of a Durable Model](http://dx.doi.org/10.1111/jmwh.12003)." _Journal of Midwifery & Women's Health_ 58, no. 1 (2013): 3–14.
 
-Amnesty International. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Deadly Delivery: The Maternal Health Care Crisis in the USA" (PDF - 1.8MB)](http://www.amnestyusa.org/sites/default/files/pdfs/deadlydelivery.pdf) \[Report\] March 2010, p. 154. _\[Also see Updates; Proposed Legislation\]._
+Amnesty International. ["Deadly Delivery: The Maternal Health Care Crisis in the USA" (PDF - 1.8MB)](http://www.amnestyusa.org/sites/default/files/pdfs/deadlydelivery.pdf) \[Report\] March 2010, p. 154. _\[Also see Updates; Proposed Legislation\]._
 
 Jonge, A. de, J. Mesman, et al. "[Severe Adverse Maternal Outcomes Among Low Risk Women with Planned Home Versus Hospital Births in the Netherlands: Nationwide Cohort Study](http://dx.doi.org/10.1136/bmj.f3263)." _The British Medical Journal_ (2013): 346. See also: Letter (Published 13 June 2013)
 
@@ -236,7 +236,7 @@ This American Life. "[Back to School](http://www.thisamericanlife.org/radio-arch
 
 [Childbirth Connection](http://www.childbirthconnection.org)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Evidence-Based Maternity Care: What It Is and What It Can Achieve (PDF)](http://www.milbank.org/uploads/documents/0809MaternityCare/0809MaternityCare.pdf)." \[PDF downloadable\]
+"[Evidence-Based Maternity Care: What It Is and What It Can Achieve (PDF)](http://www.milbank.org/uploads/documents/0809MaternityCare/0809MaternityCare.pdf)." \[PDF downloadable\]
 
 The Lancet Series: [Midwifery](http://www.thelancet.com/series/midwifery), 2014
 
@@ -270,7 +270,7 @@ Invited Guest Speaker: [Loretta Ross](http://www.lorettaross.com/Biography.html)
 
 ### Required Readings
 
-Ross, Loretta. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Color of Choice: White Supremacy and Reproductive Justice." (PDF)](http://www.racialequitytools.org/resourcefiles/The-Color-of-Choice----Public-Version-with-footnotes-1.pdf) In _The Color of Violence: The Incite! Anthology_. Edited by Incite! Women of Color Against Violence. South End Press, 2006, pp. 53–65. ISBN: 9780896087620.
+Ross, Loretta. ["The Color of Choice: White Supremacy and Reproductive Justice." (PDF)](http://www.racialequitytools.org/resourcefiles/The-Color-of-Choice----Public-Version-with-footnotes-1.pdf) In _The Color of Violence: The Incite! Anthology_. Edited by Incite! Women of Color Against Violence. South End Press, 2006, pp. 53–65. ISBN: 9780896087620.
 
 Fried, Marlene. "[Reproductive Rights in the Post-_Roe_ Era](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3518354/)." _American Journal of Public Health_ 103, no. 1 (2013): 10–14. \[Safeguarding Abortion
 
@@ -280,7 +280,7 @@ Gruskin, Sofia. "[Safeguarding Abortion: A Matter of Reproductive Rights](https:
 
 Arcana, Judith. _[What If Your Mother?](http://www.juditharcana.com/books#what-if-your-mother)_ Chicory Blue Press, 2005. ISBN: 9781887344111. (Poetry About Abortion) 
 
-Ramanathan, Mala, P. Sankara Sarma, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Situational Analysis of MTP Services in Kerala Provider Perspectives." (PDF)](http://www.cehat.org/go/uploads/AapIndia/kerala.pdf) 2003 \[India\] \[Executive Summary\]
+Ramanathan, Mala, P. Sankara Sarma, et al. ["Situational Analysis of MTP Services in Kerala Provider Perspectives." (PDF)](http://www.cehat.org/go/uploads/AapIndia/kerala.pdf) 2003 \[India\] \[Executive Summary\]
 
 Website Reports: [International Campaign for Women's Right to Safe Abortion](http://www.safeabortionwomensright.org/)  
 _Global network generates and publishes reports and alerts on abortion status, rights and laws from countries all over the globe, North and South_.
@@ -325,7 +325,7 @@ Brewis, Alexandra A., Amber Wutich, et. al. "[Body Norms an Fat Stigma in Global
 
 Kwan, Samantha. "[Framing the Fat Body: Contested Meanings Between Government, Activists, and Industry](http://dx.doi.org/10.1111/j.1475-682X.2008.00271.x)." _Sociological Inquiry_ 79, no. 1 (2009): 25–50.
 
-SWS Fact Sheet. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Size Discrimination and Health at Every Size." (PDF)](http://www.socwomen.org/wp-content/uploads/2010/05/fact_04-2008-wom-size.pdf)
+SWS Fact Sheet. ["Size Discrimination and Health at Every Size." (PDF)](http://www.socwomen.org/wp-content/uploads/2010/05/fact_04-2008-wom-size.pdf)
 
 Bass, Margaret. "On Being a Fat Black Girl in a Fat-hating Culture." In _Recovering the Black Female Body: Self Representations by African American Women_. Edited by Michael Bennett, and Vanessa D. Dickerson. Rutgers University Pres, 2000, pp. 219–30. ISBN: 9780813528397.
 
@@ -378,7 +378,7 @@ Karkazis, K. A. Chapters 4 and 5 in _Fixing Sex: Intersex, Medical Authority, an
 Liedolf, Esther Morris. "Intersex? Not My Problem." In _Embodied Resistance: Challenging the Norms, Breaking the Rules_. Edited by C. Bobel, and S. Kawan. Vanderbilt University Press, 2011. ISBN: 9780826517876. \[Preview with [Google Books](http://books.google.com/books?id=gMYOLHU-1ocC&pg=PA167=onepage)\]
 
 SWS Fact Sheet:  
-Kelly, Maura. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Intersex." (PDF)](https://socwomen.org/wp-content/uploads/2018/03/fact_03-2007-intersex.pdf) _Sociologists for Women in Society Fact Sheet_, 2007.
+Kelly, Maura. ["Intersex." (PDF)](https://socwomen.org/wp-content/uploads/2018/03/fact_03-2007-intersex.pdf) _Sociologists for Women in Society Fact Sheet_, 2007.
 
 ### Film shown in class  
 Lahood, Grant. [_Intersexion_](http://www.intersexionfilm.com/)_._ Ponsonby Productions. 2012.
@@ -403,7 +403,7 @@ Violence against women: The case of harassment
 
 ### Required Readings
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Report of The Defense Task Force on Sexual Harassment & Violence at the Military Service Academies (PDF - 8.4MB)](https://www.hsdl.org/?view&did=799844) June 2005 (retrieved on 2011–03–10)
+[Report of The Defense Task Force on Sexual Harassment & Violence at the Military Service Academies (PDF - 8.4MB)](https://www.hsdl.org/?view&did=799844) June 2005 (retrieved on 2011–03–10)
 
 Nelson, T. S. Chapter 1 in _For Love of Country: Confronting Rape and Sexual Harassment in the U.S. Military_. Routledge, 2002, pp. 1–15. ISBN: 9780789012210. \[Preview with [Google Books](http://books.google.com/books?id=bKGsfOm3AmsC&pg=PA1=onepage)\]
 
