@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 45fb86f8-71a4-d871-ca5e-ad8fc8a3123b
 resourcetype: Image
 title: WGS-645_classroom-1
 uid: cd0d9bee-1dcb-294d-1ddf-1f4c14f41e56
